@@ -1,4 +1,4 @@
-# Django React BookStore Application
+# Django Ecommerce Store Application
 
 The application is Developed by following Features:
 
