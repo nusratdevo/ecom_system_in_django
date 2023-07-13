@@ -31,28 +31,28 @@ Version 1 completed and hosted
 
 
 <h2>Ecom store</h2>
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen1.png" height="400">
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen2.png" height="400">
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen3.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen1.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen2.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen3.png" height="400">
 ---
 <h2>Cart checkout Page</h2>
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen4.png" height="400">
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen5.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen4.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen5.png" height="400">
 
 ---
 
 <h2>MyAcount Page</h2>
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen6.png" height="400">
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen7.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen6.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen7.png" height="400">
 
 
 ---
 
 <h2>Admin Dashboard Page</h2>
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen8.png" height="400">
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen9.png" height="400">
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen10.png" height="400">
-<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screen/screen11.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen8.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen9.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen10.png" height="400">
+<img src="https://github.com/nusratdevo/ecom_system_in_django/blob/main/screens/screen11.png" height="400">
 
 
 
